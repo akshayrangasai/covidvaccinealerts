@@ -1,0 +1,25 @@
+{
+  "name": "covidvaccinealerts",
+  "version": "1.0.0",
+  "description": "Vaccine Alerts For Covid in India",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayrangasai/covidvaccinealerts.git"
+  },
+  "author": "Akshay Rangasai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshayrangasai/covidvaccinealerts/issues"
+  },
+  "homepage": "https://github.com/akshayrangasai/covidvaccinealerts#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.7",
+    "pg": "^8.6.0",
+    "request": "^2.88.2"
+  }
+}
